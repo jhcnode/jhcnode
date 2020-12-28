@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CUDA-76b900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
+  
   <br>
   <img src="https://img.shields.io/badge/Windows-0078d6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
