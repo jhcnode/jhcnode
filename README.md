@@ -22,4 +22,4 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcnode&layout=compact)
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhcnode)(https://solved.ac/jhcnode/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhcnode)](https://solved.ac/jhcnode/)
