@@ -20,5 +20,6 @@
 <p align="center">
 <a href="https://velog.io/@cgotjh"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>&nbsp
 </p>
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhcnode)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcnode&layout=compact)
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhcnode)
