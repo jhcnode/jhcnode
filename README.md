@@ -18,8 +18,7 @@
 </p>
 <h3 align="center">Me</h3>
 <p align="center">
-<a href="cjhnode@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=내링크"/></a>&nbsp
-<a href="https://velog.io/@cgotjh"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=내링크"/></a>&nbsp
+<a href="https://velog.io/@cgotjh"><img src="https://img.shields.io/badge/20C997?style=for-the-badge&logo=velog&logoColor=white"></a>&nbsp
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcnode&layout=compact)
