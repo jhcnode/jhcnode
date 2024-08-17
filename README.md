@@ -18,7 +18,7 @@
 </p>
 <h3 align="center">Me</h3>
 <p align="center">
-<a href="https://velog.io/@cgotjh"><img src="https://img.shields.io/badge/20C997?style=for-the-badge&logo=velog&logoColor=white"></a>&nbsp
+<a href="https://velog.io/@cgotjh"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>&nbsp
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcnode&layout=compact)
